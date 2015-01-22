@@ -11,6 +11,9 @@ Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers support
 <br>
 
 ### Font courtesies
+* E-Fonts by [Nan Sakurai](http://www.n-plus.jp/)
+* Faux Snow by Brian Kent (Ænigma fonts)
+
 * ~~PopticsOne by Patricia Lillie~~
 * ~~Crawlers by Ann Stretton~~
 
