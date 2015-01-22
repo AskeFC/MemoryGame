@@ -1,5 +1,5 @@
 # MemoryGame
-#### (GPL 2.0)
+#### [(GPL 2.0)](https://www.gnu.org/licenses/gpl-2.0.html)
 Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers supporting those officially agreed upon standards. So if you encounter any problems, ditch your evil browser and try again with something like [Mozilla](https://www.mozilla.org)s [Firefox](https://www.mozilla.org/en-US/firefox/).
 
 <br>
