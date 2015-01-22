@@ -10,6 +10,11 @@ Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers support
 
 <br>
 
+### Font courtesies
+* ~~PopticsOne by Patricia Lillie~~
+
+<br>
+
 ### TODO
 - [ ] **
 
