@@ -1,6 +1,6 @@
 # MemoryGame
 #### (GPL 2.0)
-Memory Game for Web written in Html5, Css & JavaScript, it is ONLY for browsers supporting standards.
+Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers supporting those officially agreed upon standards.
 
 <br>
 
