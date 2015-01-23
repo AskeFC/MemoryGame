@@ -5,10 +5,26 @@ Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers support
 <br>
 
 ## Font courtesies
-- E-Fonts by [Nan Sakurai](http://www.n-plus.jp/)
+- E-Fonts by [Nan Sakurai](http://www.n-plus.jp)
 - Faux Snow by Brian Kent (Ænigma fonts)
+- Social Icons by [Fontfabric](http://fontfabric.com) / [Jelio Dimitrov](http://www.arsek.eu)
+
 - ~~PopticsOne by Patricia Lillie~~
 - ~~Crawlers by Ann Stretton~~
+
+* Animals by Alan Carr
+* Birds by Daniel Zadorozny (iconian.com)
+* Famous Faces by Daniel Zadorozny (iconian.com)
+* Dingosaurs by Daniel Zadorozny (iconian.com)
+* Butterfly by M. Klein
+* DavysDingbats by David Rakowski
+* Dingleberries by Lauren Thompson (nymphont.com)
+* Dogs by Kaiser Zhar Khan
+* Kalocsai Flowers by Levi Halmos
+* Heart Doodles by Kimberly Geswein
+* Music by Robert Allgeyer
+* Stars by Blue Vinyl (bvfonts.com)
+* Zocial by Sam Collins
 
 <br>
 
