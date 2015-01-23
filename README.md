@@ -8,10 +8,8 @@ Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers support
 - E-Fonts by [Nan Sakurai](http://www.n-plus.jp)
 - Faux Snow by Brian Kent (Ænigma fonts)
 - Social Icons by [Fontfabric](http://fontfabric.com) / [Jelio Dimitrov](http://www.arsek.eu)
-
 - ~~PopticsOne by Patricia Lillie~~
 - ~~Crawlers by Ann Stretton~~
-
 * Animals by Alan Carr
 * Birds by Daniel Zadorozny (iconian.com)
 * Famous Faces by Daniel Zadorozny (iconian.com)
