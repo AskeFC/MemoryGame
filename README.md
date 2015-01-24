@@ -1,5 +1,5 @@
 # MemoryGame
-Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers supporting the [W3C standards](https://www.w3.org/standards/). So if you encounter any problems, ditch your evil browser and try again with something like [Mozilla](https://www.mozilla.org)s [Firefox](https://www.mozilla.org/en-US/firefox/).
+Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers supporting the latest([ATOW](http://www.acronymfinder.com/Slang/ATOW.html)) [W3C standards](https://www.w3.org/standards/). If you encounter any problems, first try updating your browser, OS and drivers. If it still persist then try again with something like [Mozilla](https://www.mozilla.org)s [Firefox](https://www.mozilla.org/en-US/firefox/) browser.
 
 <br>
 
