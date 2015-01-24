@@ -1,5 +1,5 @@
 # MemoryGame
-Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers supporting the latest([ATOW](http://www.acronymfinder.com/Slang/ATOW.html)) [W3C standards](https://www.w3.org/standards/). If you encounter any problems, first try updating your browser, OS and drivers. If it still persist then try again with something like [Mozilla](https://www.mozilla.org)s [Firefox](https://www.mozilla.org/en-US/firefox/) browser.
+Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers supporting the latest ([ATOW](http://www.acronymfinder.com/Slang/ATOW.html))  [W3C standards](https://www.w3.org/standards/). If you encounter any problems, first try updating your browser, OS and drivers. If it still persist then try again with something like [Mozilla](https://www.mozilla.org)s [Firefox](https://www.mozilla.org/en-US/firefox/) browser.
 
 <br>
 
@@ -32,9 +32,9 @@ Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers support
 <br>
 
 #### Help development of this software by supporting me.
-- PayPal &nbsp;&nbsp;[![alt text](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif "Onetime PayPal donation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MTUK6NZQ6URX8)
-- Gratipay [![alt text](https://img.shields.io/gratipay/AskeFC.svg "Weekly Gratipay donation")](https://gratipay.com/AskeFC)
-- Flattr &nbsp;&nbsp;&nbsp;[![alt text](https://api.flattr.com/button/flattr-badge-large.png "Monthly Flattr donation")](https://flattr.com/profile/Mandrake)
+- [![alt text](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif "Onetime PayPal donation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MTUK6NZQ6URX8)&nbsp;&nbsp;PayPal
+- [![alt text](https://img.shields.io/gratipay/AskeFC.svg "Weekly Gratipay donation")](https://gratipay.com/AskeFC)&nbsp;Gratipay
+- [![alt text](https://api.flattr.com/button/flattr-badge-large.png "Monthly Flattr donation")](https://flattr.com/profile/Mandrake)&nbsp;&nbsp;&nbsp;Flattr
 
 <br>
 
