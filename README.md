@@ -1,5 +1,4 @@
 # MemoryGame
-#### ([GPL 2.0](https://www.gnu.org/licenses/gpl-2.0.html))
 Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers supporting the [W3C standards](https://www.w3.org/standards/). So if you encounter any problems, ditch your evil browser and try again with something like [Mozilla](https://www.mozilla.org)s [Firefox](https://www.mozilla.org/en-US/firefox/).
 
 <br>
@@ -38,6 +37,10 @@ Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers support
 
 <br>
 
-> **Disclaimer :**
+> **Disclaimer**
 
-> If your computer implodes and sparks the armageddon, aliens eat your babysitter or you and your possesions are otherwise in any way incapacitated/damaged/hurt/etc, I can in no way be held responsible, since this code is provided as-is and it is your choice to use or ignore it.
+> If your computer implodes and sparks the armageddon, aliens eat your babysitter or you and your possesions are otherwise in any way, but not limited to, incapacitated/damaged/hurt, I can in no way be held responsible, since this code is provided as-is and it was your choice to use it. By using this software you accept the Disclaimer and License.
+
+> **License**
+
+> © Copyright 2014 Aske Færch Christensen (AskeFC.net). Released under the [GPL 2.0 License](https://www.gnu.org/licenses/gpl-2.0.html).
