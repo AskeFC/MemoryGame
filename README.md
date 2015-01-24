@@ -4,6 +4,7 @@ Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers support
 <br>
 
 ## Font courtesies
+#### All fonts are Copyright of their respective authors and owners. But have gracefully given their consent to be used in this software, so be sure to credit them for their great work.
 - E-Fonts by [Nan Sakurai](http://www.n-plus.jp)
 - Faux Snow by Brian Kent (Ænigma fonts)
 - Social Icons by [Fontfabric](http://fontfabric.com) / [Jelio Dimitrov](http://www.arsek.eu)
@@ -38,8 +39,11 @@ Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers support
 <br>
 
 > **Disclaimer**
+
 > If your computer implodes and sparks the armageddon, aliens eat your babysitter or you and your possesions are otherwise in any way, but not limited to, incapacitated/damaged/hurt, I can in no way be held responsible, since this code is provided as-is and it was your choice to use it. By using this software you accept the License and this Disclaimer.
 
+<br>
 
 > **License**
+
 > © Copyright 2014 Aske Færch Christensen (AskeFC.net). Released under the [GPL 2.0 License](https://www.gnu.org/licenses/gpl-2.0.html).
