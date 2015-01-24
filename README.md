@@ -20,9 +20,6 @@ Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers support
 * Music by Robert Allgeyer
 * Stars by Blue Vinyl (bvfonts.com)
 * Zocial by Sam Collins
-- ~~PopticsOne by Patricia Lillie~~
-- ~~Crawlers by Ann Stretton~~
-- ~~Heart Doodles by Kimberly Geswein~~
 
 <br>
 
