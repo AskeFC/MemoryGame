@@ -32,7 +32,7 @@ Memory Game for Web in Html5, Css3 & JavaScript, it is ONLY for browsers support
 <br>
 
 #### Help development of this software by supporting me.
-- [![alt text](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif "Onetime PayPal donation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MTUK6NZQ6URX8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PayPal
+- &nbsp;&nbsp;[![alt text](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif "Onetime PayPal donation")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MTUK6NZQ6URX8)&nbsp;&nbsp;&nbsp;PayPal
 - [![alt text](https://img.shields.io/gratipay/AskeFC.svg "Weekly Gratipay donation")](https://gratipay.com/AskeFC)&nbsp;&nbsp;Gratipay
 - [![alt text](https://api.flattr.com/button/flattr-badge-large.png "Monthly Flattr donation")](https://flattr.com/profile/Mandrake)&nbsp;Flattr
 
